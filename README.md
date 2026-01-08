@@ -6,7 +6,7 @@
 ### **Project Overview**
 [**View the Project Slides (PDF)**](./Francemone_Intent_Prediction_and_Algorithmic_Alignment.pdf)
 
-This project moves beyond standard demographic filtering to build a **Multi-Modal Intent Framework**. A critical friction point in online dating is mismatched intent (e.g., "Wants Kids" vs. "Child-free"), which leads to low-quality dates and churn.
+This project moves beyond standard demographic filtering to build a **Multi-Modal Intent Framework**. A critical friction point in online dating is mismatched intent (e.g., Wants Kids vs. Child-free), which leads to low-quality dates and churn.
 
 Using a dataset of ~60,000 profiles, I developed a three-tiered analytical framework combining **Supervised Learning** (Gradient Boosting), **Unsupervised NLP** (LDA), and **Causal Inference** (Propensity Score Matching) to isolate the true drivers of family planning intent.
 
@@ -15,7 +15,7 @@ Using a dataset of ~60,000 profiles, I developed a three-tiered analytical frame
 ### **Key Findings & Strategic Insights**
 
 #### **1. Demographics Provide a Strong Baseline (79% Accuracy)**
-**Age**, **Sexuality**, and **Religion** are the primary gatekeepers of family intent. However, demographic models struggle to differentiate between **"Lifestyle Choice"** (child-free by choice) and **"Life Stage"** (not ready yet).
+**Age**, **Sexuality**, and **Religion** are the primary gatekeepers of family intent. However, demographic models struggle to differentiate between **Lifestyle Choice** (child-free by choice) and **Life Stage** (not ready yet).
 
 #### **2. Language is a Behavior: 5 Distinct Personas**
 ![Topic Modeling Visualization](notebooks/lda_viz.png)
