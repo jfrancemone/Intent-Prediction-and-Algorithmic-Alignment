@@ -5,7 +5,7 @@
 
 **Techniques:** Supervised  Gradient Boosting, Unsupervised NLP (LDA), Causal Inference (Propensity Score Matching)
 
-**Tools:** Python, Pandas, Gensim, Scikit-Learn, PyCausalInference
+**Tools:** Python, Pandas, SpaCy, Scikit-Learn, SHAP
 
 ---
 
