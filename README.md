@@ -1,4 +1,4 @@
-# 🧠 Intent Prediction & Algorithmic Alignment
+# 🧠 Intent Prediction & Algorithmic Alignment in Online Dating
 [![Topic](https://img.shields.io/badge/Topic-NLP_%26_Machine_Learning-blue)]()
 [![Method](https://img.shields.io/badge/Method-XGBoost_%7C_spaCy_%7C_Causal_Inference-green)]()
 [![Status](https://img.shields.io/badge/Status-Project_Complete-orange)]()
@@ -6,16 +6,16 @@
 ### **Project Overview**
 [**View the Project Slides (PDF)**](./Francemone_Intent_Prediction_and_Algorithmic_Alignment.pdf)
 
-This project moves beyond standard demographic filtering to build a **Multi-Modal Intent Framework**. A critical friction point in online dating is mismatched intent (e.g., Wants Kids vs. Child-free), which leads to low-quality dates and churn.
+This project moves beyond standard demographic filtering to build a **Multi-Modal Intent Framework** in online dating. A critical friction point in online dating is mismatched intent (e.g., Wants Kids vs. Child-free), which leads to low-quality dates and churn.
 
-Using a dataset of ~60,000 profiles, I developed a three-tiered analytical framework combining **Supervised Learning** (Gradient Boosting), **Unsupervised NLP** (LDA), and **Causal Inference** (Propensity Score Matching) to isolate the true drivers of family planning intent.
+Using a dataset of ~60,000 profiles, I developed a three stage analytical framework combining **Supervised Learning** (Gradient Boosting), **Unsupervised NLP** (LDA), and **Causal Inference** (Propensity Score Matching) to isolate the true drivers of family planning intent.
 
 ---
 
 ### **Key Findings & Strategic Insights**
 
 #### **1. Demographics Provide a Strong Baseline (79% Accuracy)**
-**Age**, **Sexuality**, and **Religion** are the primary gatekeepers of family intent. However, demographic models struggle to differentiate between **Lifestyle Choice** (child-free by choice) and **Life Stage** (not ready yet).
+**Age**, **Sexuality**, and **Religion** are the primary gatekeepers of family planning. However, demographic models struggle to differentiate between **Lifestyle Choice** (child-free by choice) and **Life Stage** (not ready yet).
 
 #### **2. Language is a Behavior: 5 Distinct Personas**
 ![Topic Modeling Visualization](notebooks/lda_viz.png)
