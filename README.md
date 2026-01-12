@@ -1,7 +1,7 @@
 # 💕 Intent Prediction & Algorithmic Alignment in Online Dating
-[![Topic](https://img.shields.io/badge/Topic-Product_Strategy_&_NLP-blue)](https://github.com/jfrancemone/Intent-Prediction-and-Algorithmic-Alignment-in-Online-Dating)
-[![Method](https://img.shields.io/badge/Method-Predictive_Modeling_(XGBoost)-green)](https://github.com/jfrancemone/Intent-Prediction-and-Algorithmic-Alignment-in-Online-Dating)
-[![Tools](https://img.shields.io/badge/Tools-Python_%7C_Scikit--Learn-orange)](https://github.com/jfrancemone/Intent-Prediction-and-Algorithmic-Alignment-in-Online-Dating)
+[![Topic](https://img.shields.io/badge/Topic-Product_Strategy-blue)](https://github.com/jfrancemone/Intent-Prediction-and-Algorithmic-Alignment-in-Online-Dating)
+[![Method](https://img.shields.io/badge/Method-Supervised_Machine_Learning-green)](https://github.com/jfrancemone/Intent-Prediction-and-Algorithmic-Alignment-in-Online-Dating)
+[![Tools](https://img.shields.io/badge/Tools-Python-orange)](https://github.com/jfrancemone/Intent-Prediction-and-Algorithmic-Alignment-in-Online-Dating)
 
 ### **Project Overview**
 [**View the Project Slides (PDF)**](./Francemone_Intent_Prediction_and_Algorithmic_Alignment_in_Online_Dating.pdf)
