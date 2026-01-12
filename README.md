@@ -1,7 +1,7 @@
 # 💕 Intent Prediction & Algorithmic Alignment in Online Dating
 [![Topic](https://img.shields.io/badge/Topic-NLP_%26_Machine_Learning-blue)]()
 [![Method](https://img.shields.io/badge/Method-XGBoost_%7C_spaCy_%7C_Causal_Inference-green)]()
-[![Status](https://img.shields.io/badge/Status-Project_Complete-orange)]()
+[![Status](https://img.shields.io/badge/Tools-Python-orange)]()
 
 ### **Project Overview**
 [**View the Project Slides (PDF)**](./Francemone_Intent_Prediction_and_Algorithmic_Alignment_in_Online_Dating.pdf)
