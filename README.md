@@ -4,7 +4,7 @@
 [![Tools](https://img.shields.io/badge/Tools-Python-orange)](https://github.com/jfrancemone/Intent-Prediction-and-Algorithmic-Alignment-in-Online-Dating)
 
 ### **Project Overview**
-[**View the Project Report (PDF)**](./Francemone_Intent_Prediction_and_Algorithmic_Alignment_in_Online_Dating.pdf)
+[**View the Project Report (PDF)**](./Francemone_User_Intent_Modeling_for_Recommendation_Systems.pdf)
 
 This project moves beyond standard demographic filtering to build a **Multi-Modal Intent Framework** in online dating. A critical friction point in online dating is mismatched intent (e.g., Wants Kids vs. Child-free), which leads to low-quality dates and churn.
 
